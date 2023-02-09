@@ -50,6 +50,10 @@
         "isWholeLine": false,
     },
     "files.associations": {
+        "*.md": "plaintext",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
         "test.h": "c",
         "vulkan.h": "c",
         "vulkan_core.h": "c",
@@ -66,6 +70,8 @@
         "defines.h": "c",
         "vulkan_types.inl": "c",
         "clock.h": "c",
-        "kstring.h": "c"
+        "kstring.h": "c",
+        "logger.h": "c",
+        "platform.h": "c"
     }
 }
