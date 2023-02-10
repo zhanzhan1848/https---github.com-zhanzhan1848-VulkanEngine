@@ -1,6 +1,6 @@
 # Kohi Engine
 
-Thanks for Travis Vroman (youtube: https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj). This is a greate tutorial for C and VulkanAPI.
+Thanks for Travis Vroman (youtube channel: https://www.youtube.com/@TravisVroman). This is a greate tutorial for C and VulkanAPI.(youtube playlist:https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj)
 
 # .plan
 Kohi will be a 3D engine from the start, with most of it built from scratch with explanations along the way. The series starts off as more of a tutorial to get up and running, with explanations becoming higher level as things progress to keep the pacing up.
